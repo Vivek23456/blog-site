@@ -1,5 +1,6 @@
 🚀 OxideBlog
-
+ not completed yet 
+   ```
 OxideBlog is a fast, minimalist, file-based blog engine built with Rust and Actix-web.
 It is designed for developers who value performance, simplicity, and full control over their content.
 

@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* =========================
+   Post Page Styling
+   ========================= */
+
+.post-content {
+  margin-top: 2rem;
+}
+
+.post-content h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.post-content h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.post-content p {
+  margin-bottom: 1rem;
+  line-height: 1.7;
+}
+
+.post-content ul {
+  margin-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.post-content li {
+  list-style: disc;
+}
+
+.post-content pre {
+  background-color: #0f172a;
+  color: #e5e7eb;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  overflow-x: auto;
+  margin-bottom: 1.5rem;
+}
+
+.post-content code {
+  background-color: #e5e7eb;
+  padding: 0.25rem 0.4rem;
+  border-radius: 0.25rem;
+  font-family: monospace;
+}
